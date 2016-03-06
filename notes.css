@@ -28,11 +28,7 @@ h6 { font-size: 1em; color: #888; }
 p, blockquote, ul, ol, dl, table, pre { margin: 5px 0; }
 li { margin: 0; }
 
-hr {
-    height: 0.2em;
-    border: 0;
-    color: #CCCCCC;
-}
+hr { margin: 10px 0; }
 
 code, pre {
     border-radius: 3px;
