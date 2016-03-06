@@ -20,14 +20,13 @@ h4 { font-size: 16px; }
 h5 { font-size: 14px; }
 h6 { font-size: 14px; color: #777777; }
 
+p, blockquote, ul, ol, dl, table, pre { margin: 5px 0; }
+li { margin: 0; }
+
 hr {
     height: 0.2em;
     border: 0;
     color: #CCCCCC;
-}
-
-p, blockquote, ul, ol, dl, li, table, pre {
-    margin: 15px 0;
 }
 
 code, pre {
