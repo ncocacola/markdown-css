@@ -36,6 +36,7 @@ h5 { font-size: 1em; color: #444; }
 h6 { font-size: 1em; color: #888; }
 
 p, blockquote, ul, ol, dl, table { margin: 5px 0; }
+ul, ol, dl { list-style-position: inside; padding-left: 20px; }
 li { margin: 0; }
 
 hr { background-color: #CCC; margin: 10px 0; }
