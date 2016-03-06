@@ -11,37 +11,13 @@ body {
     font-family: Helvetica, Arial, Freesans, clean, sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-weight: bold;
-}
-
-h1 {
-    color: #000000;
-    font-size: 28px;
-}
-
-h2 {
-    border-bottom: 1px solid #CCCCCC;
-    color: #000000;
-    font-size: 24px;
-}
-
-h3 {
-    font-size: 18px;
-}
-
-h4 {
-    font-size: 16px;
-}
-
-h5 {
-    font-size: 14px;
-}
-
-h6 {
-    color: #777777;
-    font-size: 14px;
-}
+h1, h2, h3, h4, h5, h6 { font-weight: bold; }
+h1 { font-size: 28px; }
+h2 { font-size: 24px; }
+h3 { font-size: 18px; }
+h4 { font-size: 16px; }
+h5 { font-size: 14px; }
+h6 { font-size: 14px; color: #777777; }
 
 hr {
     height: 0.2em;
