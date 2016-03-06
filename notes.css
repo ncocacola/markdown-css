@@ -25,36 +25,12 @@ h4 { font-size: 1em; }
 h5 { font-size: 1em; color: #444; }
 h6 { font-size: 1em; color: #888; }
 
-p, blockquote, ul, ol, dl, table, pre { margin: 5px 0; }
+p, blockquote, ul, ol, dl, table { margin: 5px 0; }
 li { margin: 0; }
 
 hr { margin: 10px 0; }
 
-code, pre {
-    border-radius: 3px;
-    color: inherit;
-}
-
-code {
-    border: 1px solid #EAEAEA;
-    margin: 0 2px;
-    padding: 0 5px;
-}
-
-pre {
-    border: 1px solid #CCCCCC;
-    line-height: 1.25em;
-    overflow: auto;
-    padding: 6px 10px;
-}
-
-pre > code {
-    border: 0;
-    margin: 0;
-    padding: 0;
-}
-
-a, a:visited {
-    color: #4183C4;
-    text-decoration: none;
-}
+code, pre { border-radius: 3px; color: inherit; }
+code { border: 1px solid #EAEAEA; margin: 0 2px; padding: 0 5px; }
+pre { line-height: 1.25em; overflow: auto; padding: 6px 10px; margin: 10px 0; }
+pre > code { border: 0; margin: 0; padding: 0; }
