@@ -29,6 +29,7 @@ p, blockquote, ul, ol, dl, table { margin: 5px 0; }
 li { margin: 0; }
 
 hr { margin: 10px 0; }
+a, a:visited { color: #4183C4; text-decoration: none; }
 
 code, pre { border-radius: 3px; color: inherit; }
 code { border: 1px solid #EAEAEA; margin: 0 2px; padding: 0 5px; }
