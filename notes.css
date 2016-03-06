@@ -10,6 +10,7 @@
 body {
     font-family: Helvetica, Arial, Freesans, clean, sans-serif;
     line-height: 1.15;
+    color: #000;
 }
 
 h1, h2, h3, h4, h5, h6 { line-height: 1.15; margin: 0; }
